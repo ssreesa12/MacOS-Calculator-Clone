@@ -1,0 +1,14 @@
+/* src/components/Calculator.css */
+.calculator {
+    width: 878px;
+    height: 345px;
+    background-color: #333333;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
+  }
+  
+  .buttons {
+    display: grid;
+   grid-template-columns: 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr;
+    
+  }
+  
