@@ -17,6 +17,19 @@ This is a web-based clone of the macOS Scientific Calculator built using React. 
 
 
 
+## Video 
+
+
+https://github.com/ssreesa12/MacOS-Calculator-Clone/assets/139852839/0d27d2a7-c8fd-4a08-9fe4-eafaf966c980
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
